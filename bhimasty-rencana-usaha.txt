@@ -4,6 +4,7 @@ RENCANA USAHA BHIMASTY
   = goreng
   = bakar
     ^ bakar original
+    ^ bakar varian
 - caping
 - tanaman
   = tanaman air
