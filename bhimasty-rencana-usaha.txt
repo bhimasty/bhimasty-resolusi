@@ -4,3 +4,4 @@ RENCANA USAHA BHIMASTY
   = goreng
   = bakar
 - caping
+- tanaman
