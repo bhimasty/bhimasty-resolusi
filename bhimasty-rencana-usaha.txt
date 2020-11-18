@@ -3,7 +3,9 @@ RENCANA USAHA BHIMASTY
 - kacang mede
   = goreng
   = bakar
-    ^ bakar pedas
+    ^ bakar original
     ^ bakar varian
+- caping
 - tanaman
   = tanaman air
+- makanan
