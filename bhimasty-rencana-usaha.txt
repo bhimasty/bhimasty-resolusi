@@ -2,6 +2,8 @@ RENCANA USAHA BHIMASTY
 
 - kacang mede
   = goreng
+    ^ goreng original
+    ^ goreng varian
   = bakar
     ^ bakar original
     ^ bakar varian
